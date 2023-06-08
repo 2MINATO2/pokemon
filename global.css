@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #f6f8fc;
+}
+
+.conteiner{
+    width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+    background-color: white;
+}
+
+a{
+    position: relative;
+    color: white;
+    text-decoration: none;
+    border-radius: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
